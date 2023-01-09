@@ -1,12 +1,23 @@
 {
   "name": "sql-injection-activity",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaywood86/sql-injection-activity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhaywood86/sql-injection-activity/issues"
+  },
+  "homepage": "https://github.com/jhaywood86/sql-injection-activity#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
